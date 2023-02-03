@@ -37,3 +37,6 @@ I dont know how i plan to do this but there will be ideology / policy which have
 I also know alliances will be a thing, probably someone creates an alliance and a password and if you give that alliance pass to someone they can join idk
 
 If you lose your capital you lose, and the last player (or alliance) with their capitals wins!!!
+
+---
+you can run it by cloning repo and pointing nginx to the html file
