@@ -1,5 +1,5 @@
-var row = 6
-var column = 5
+var row = 10
+var column = 2 
 var display = ""
 
 function test(){ //generate rectangle to visualize map
@@ -31,3 +31,5 @@ function backtogridmode(strinput){
 test()
 stringmode(display)
 backtogridmode(display)
+var print = display.replace(/\n/g, `</br>`)
+document.getElementById("body").innerHTML = print
